@@ -46,4 +46,4 @@ $ rm -rf mount
 ```
 
 #### Referance
-    https://wiki.odroid.com/odroid-c1/software/building_kernel
+https://wiki.odroid.com/odroid-c1/software/building_kernel
